@@ -20,9 +20,5 @@ BTech CS student (2023–2027) — skilled in building scalable web apps, REST A
 
 ### 📫 Reach Me
 - 📧 ag5674182@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/akshay-gupta-984554234)
-- 🔗 [LeetCode](https://leetcode.com/u/akshayxdsa/)
-- GitHub: [@akshayxcode2574](https://github.com/akshayxcode2574)
-
----
+- 
 ⭐️ From [akshayxcode2574](https://github.com/akshayxcode2574)
