@@ -2,7 +2,7 @@
 
 💻 MERN Stack Developer • ⚡ C++ Programmer • 🧠 DSA Enthusiast
 
-BTech CS student (2023–2027) at IMS Engineering College, Ghaziabad — skilled in building scalable web apps, REST APIs, and backend systems using React.js, Node.js, and MongoDB. Solved 150+ DSA problems on LeetCode.
+BTech CS student (2023–2027) — skilled in building scalable web apps, REST APIs, and backend systems using React.js, Node.js, and MongoDB. Solved 150+ DSA problems on LeetCode.
 
 ### 🚀 Tech Stack
 - **Languages:** C++, JavaScript
